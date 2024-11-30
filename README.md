@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Maggie!  
 
-<!--
-**maggiehollis/maggiehollis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Junior at Smith College**, double majoring in **Computer Science** and **Math**  
+🎯 **Aspiring Software Engineer**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects  
+Check out some of my work:  
+- [**GradBench**](https://github.com/gradbench/gradbench): An automatic differentiation benchmarking suite developed in collaboration with researchers at CMU.  
+- [**NeoViews**](https://github.com/NeoViews/BeyondSight): A machine learning project predicting the locations of invisible players on a football field.  
+- [**Babylon Chatbot**](https://github.com/nyccreator/BabylonChatbot): A chatbot project I worked on a few years back.  
+
+---
+
+### 📬 How to Reach Me  
+- **Email:** [mhollis@smith.edu](mailto:mhollis@smith.edu)  
+- **LinkedIn:** [linkedin.com/in/maggie-hollis/](https://www.linkedin.com/in/maggie-hollis/)  
+
+---
